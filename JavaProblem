@@ -1,1 +1,10 @@
+public class JavaDemo
+{
+public static void mail(String[] args)
+{
+public static int sumOfDigit(int num)
+{
 
+}
+}
+}
